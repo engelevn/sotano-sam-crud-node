@@ -79,13 +79,13 @@ sotano-sam-crud-node/
 Clonar el repositorio
 git clone https://github.com/engelevn/sotano-sam-crud-node.git
 
- Ingresar al backend
+Ingresar al backend
 cd sotano-sam-crud-node/backend
 
 Instalar dependencias
 npm install
 
- Ejecutar servidor
+Ejecutar servidor
 npm run dev
 
 
